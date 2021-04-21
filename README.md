@@ -11,7 +11,7 @@ A simple adventure based on Kubernetes.
 
 Purpose: *To help learn the python programming language in a fun way*
 
-Being a kubernetes fan and trying Python for the first time, I wrote this game for an assignment in my graduate class in software development.
+Being a kubernetes fan and trying Python for the first time, I wrote this simple ASCII base game for fun.
   
 >"Kubernetes can speed up the development process by making easy, automated deployments,  
 >updates (rolling-update) and by managing apps and services with almost zero downtime.  
