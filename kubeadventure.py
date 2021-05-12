@@ -18,6 +18,7 @@ from helper import showIntro as showIntro
 # *****************************************************
 # Start a game with a new toon
 # This is destroy old saved data
+# Updated today
 # *****************************************************
 def startNewGame():
     showBanner()
